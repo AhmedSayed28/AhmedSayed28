@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=2000%2C500&ssl=1.jpeg)
+![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png)
 <h1 align="center">Hi There 👋, I'm Ahmed Abdulrahman</h1>
 <h3 align="center">A passionate Backend Developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" > 
