@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Increase my experience in the field of backend**
 
-- 🌱 I’m currently learning **C# , SQL DB and ASP.NET Core**
+- 🌱 I’m currently learning **PHP , Laravel , MySQL ,Vuejs, Reactjs ,C# , SQL DB and ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://engahmedsayed.netlify.app/](https://engahmedsayed.netlify.app/)
 
