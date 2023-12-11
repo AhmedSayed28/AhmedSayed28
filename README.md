@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahmed-sayed-ahmed-a2039821a/](https://www.linkedin.com/in/ahmed-sayed-ahmed-a2039821a/)
 
-- 💬 Ask me about **C# , EF , LINQ ,SQL DB or ASP.NET Core**
+- 💬 Ask me about **PHP , Laravel , MySQL , Reactjs**
 
 - 📫 How to reach me **ahmmed.dev@gmail.com**
 
